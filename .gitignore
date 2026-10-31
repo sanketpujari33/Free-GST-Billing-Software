@@ -28,7 +28,6 @@ Trash/
 public/tesseract/
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -46,3 +45,4 @@ docs-site/out/
 
 # Playwright MCP browser-tool scratch files
 .playwright-mcp/
+config.bat
